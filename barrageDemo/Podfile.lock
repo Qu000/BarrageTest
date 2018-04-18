@@ -1,0 +1,16 @@
+PODS:
+  - BarrageRenderer (1.8.1)
+
+DEPENDENCIES:
+  - BarrageRenderer (~> 1.8.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BarrageRenderer
+
+SPEC CHECKSUMS:
+  BarrageRenderer: a5dc2c9d38028be819b64ed2b7dfa240490b378a
+
+PODFILE CHECKSUM: 71cfeba2bc1fb25071965a1a4e80c1cb2fc104f9
+
+COCOAPODS: 1.5.0
